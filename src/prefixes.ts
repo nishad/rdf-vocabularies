@@ -1,5 +1,6 @@
 const prefixes = {
   as: 'http://www.w3.org/ns/activitystreams#',
+  bibo: 'http://purl.org/ontology/bibo/',
   cc: 'http://creativecommons.org/ns#',
   cnt: 'http://www.w3.org/2011/content#',
   csvw: 'http://www.w3.org/ns/csvw#',
